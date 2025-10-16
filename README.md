@@ -1,4 +1,4 @@
-# Implementation of "Differentiable Acoustic Radiance Transfer"
+# Differentiable Acoustic Radiance Transfer
 
 NOTE: This page is under construction; the updated code will be also released soon.
 
