@@ -1,4 +1,6 @@
-# Source code for "Differentiable Acoustic Radiance Transfer"
+# Implementation of "Differentiable Acoustic Radiance Transfer"
+
+NOTE: This page is under construction; the updated code will be also released soon.
 
 ---
 ### Repository Structure
